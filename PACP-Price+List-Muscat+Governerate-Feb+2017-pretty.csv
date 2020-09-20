@@ -129,7 +129,7 @@ Diary Products,Luna Milk Liquid,1,170,ml,0.155,0.17,,,0.155,0.155
 Diary Products,Al Marai Cheese Jar Original,1,240,g,0.72,0.75,,0.72,0.73,0.725
 Diary Products,Al Marai Zadi Ff,1,170,g,0.09,0.1,0.09,0.09,0.09,0.09
 Diary Products,Milk Gold 2,1,400,g,3.29,3.34,3.35,,3.295,3.29
-Diary Products,Milk Omila,96,169,g,13.4,13.42,,13.4,13.45,13.5
+Diary Products,Milk Omela,96,169,g,13.4,13.42,,13.4,13.45,13.5
 Diary Products,Milk Powder Luna Bag,1,2.25,kg,6.075,6.075,,,,
 Diary Products,Milk Progress Gold 3,1,400,g,2.975,3.09,2.99,2.98,2.975,2.99
 Diary Products,Milupa Aptamil N 1,1,400,g,3.09,3.15,3.09,3.09,3.12,
@@ -184,7 +184,7 @@ Frozen Vegetables,Frozen Potatoes Emborg,1,1000,g,0.65,0.74,,0.65,0.725,0.655
 Ghee/Cooking Oil,Afia Corn Oil,1,1.8,L,2.09,2.19,2.09,2.09,2.19,2.18
 Ghee/Cooking Oil,Afia Sunflower Oil,1,1.8,L,1.7,1.85,,1.7,1.9,1.85
 Ghee/Cooking Oil,Alarabi S.F Best Fly Oil,1,3.5,L,2.79,3.05,2.95,2.79,3.1,2.98
-Ghee/Cooking Oil,Almarai Butter Ghee,1,1.6,L,5.91,5.91,5.99,5.91,5.99,5.915
+Ghee/Cooking Oil,Al Marai Butter Ghee,1,1.6,L,5.91,5.91,5.99,5.91,5.99,5.915
 Ghee/Cooking Oil,Amul Pure Fat Sincere,1,1,L,3.29,3.59,3.69,3.29,3.49,3.59
 Ghee/Cooking Oil,Aseel Veg. Ghee,1,2,kg,2.38,,,2.38,2.49,2.64
 Ghee/Cooking Oil,Cook Best Pure Ghee,1,1.6,kg,5.69,,6.85,5.69,6.4,6.7
@@ -220,9 +220,9 @@ Juices,Pasture Juice Guava,1,1.75,L,0.73,0.78,,0.73,0.75,0.73
 Juices,Pasture Tut Problem,1,1.75,L,0.73,0.78,,0.73,750,0.73
 Juices,Pasture With Orange Islands,1,1.75,L,0.73,,,0.73,0.75,0.73
 Juices,Pomegranate Juice Almarai,1,1.75,L,0.82,,,0.91,0.82,0.91
-Juices,Rawabi Mango Juice,1,1,L,0.45,0.47,,0.45,0.45,
-Juices,Rawabi Mango Juice,1,2,L,0.725,,,0.725,,0.725
-Juices,Rawabi Orange Juice,1,2,L,0.725,0.75,,0.725,0.725,0.725
+Juices,Al Rawabi Mango Juice,1,1,L,0.45,0.47,,0.45,0.45,
+Juices,Al Rawabi Mango Juice,1,2,L,0.725,,,0.725,,0.725
+Juices,Al Rawabi Orange Juice,1,2,L,0.725,0.75,,0.725,0.725,0.725
 Juices,Tang Orange,1,750,g,1.27,1.33,,1.27,1.312,1.32
 Juices,Tang Orange Reffil,1,750,g,0.915,,,,,0.915
 Juices,Top Fruit Cardboard,24,250,ml,2.05,2.2,,2.05,2.15,2.1
@@ -246,13 +246,13 @@ Chicken,Tilly Chicken Frozen,1,1,kg,1.15,13.5,,1.15,,
 Meat,Lamb Shoulder,1,1,kg,3.1,3.1,3.59,,3.59,3.59
 Meat,Lamb Drumstick,1,1,kg,2.9,2.9,3.69,,3.69,3.49
 Mineral Water,Al Ain Water,1,1.5,L,1.42,1.45,,1.42,1.475,1.425
-Mineral Water,Aquafina Water,1,1.5,L,0.67,0.7,0.67,1.32,0.675,0.675
-Mineral Water,Arwa Water,1,1.5,L,0.69,0.725,0.7,,0.69,0.7
+Mineral Water,Aquafina Water,6,1.5,L,0.67,0.7,0.67,1.32,0.675,0.675
+Mineral Water,Arwa Water,6,1.5,L,0.69,0.725,0.7,,0.69,0.7
 Mineral Water,Darbat Water,24,500,ml,1.275,1.29,,1.3,1.275,1.3
-Mineral Water,Jabal Al Akhdar Water,1,1.5,L,1.12,1.4,,1.12,1.41,1.43
-Mineral Water,Masafi Water,1,1.5,L,0.88,0.9,,1.575,0.9,0.88
-Mineral Water,Oaisis Water,1,1.5,L,0.66,0.72,,0.66,0.71,0.685
-Mineral Water,Oman Oasis Water,30,1,,0.95,1.05,1,0.95,1.05,1.05
+Mineral Water,Jabal Al Akhdar Water,24,1.5,L,1.12,1.4,,1.12,1.41,1.43
+Mineral Water,Masafi Water,6,1.5,L,0.88,0.9,,1.575,0.9,0.88
+Mineral Water,Oasis Water,6,1.5,L,0.66,0.72,,0.66,0.71,0.685
+Mineral Water,Oman Oasis Water,30,1,cups,0.95,1.05,1,0.95,1.05,1.05
 Nuts And Sweets,Biscuit Amricana Luxury Petrkoiz,1,454,g,1.33,1.375,1.39,1.33,1.4,1.365
 Nuts And Sweets,Jewels Chocolate Problem,1,200,g,1.54,1.75,1.69,1.54,1.67,1.67
 Nuts And Sweets,Jewels Chocolate Problem,1,400,g,2.79,3.075,2.99,2.79,2.95,2.98
@@ -261,7 +261,7 @@ Nuts And Sweets,Nutlla Shkulate,1,400,g,1.275,1.59,1.63,,1.275,
 Nuts And Sweets,Sweets Galaxy,24,43,g,5.25,5.3,,,,5.25
 Nuts And Sweets,Sweets Mcintosh Kwality Street,1,850,g,5.29,,,5.29,5.475,5.55
 Nuts And Sweets,Twix Twin Bar,25,50,g,4.9,5.5,5.39,4.9,5.4,5.45
-Pasta,Coulson Mkronah,1,400,g,0.18,0.18,0.2,0.18,0.2,
+Pasta,Coulson Macaroni,1,400,g,0.18,0.18,0.2,0.18,0.2,
 Pasta,Coulson Slurries Higher Category,1,450,g,0.22,0.25,,0.22,0.275,
 Pasta,Mekronah Autumn,1,400,g,0.175,0.175,,,0.18,0.18
 Pasta,Mekronah Gulf,1,400,g,0.28,0.3,,0.28,,
@@ -353,7 +353,7 @@ Tea/Coffee,Leone Loose Tea Packet 450g,1,450,g,1.19,1.25,1.25,1.19,1.25,1.225
 Tea/Coffee,Lipton Black Tea,1,800,g,2.69,2.89,2.87,2.69,2.875,2.88
 Tea/Coffee,Lipton Black Tea (Excess),1,200,g,0.75,0.81,0.81,0.75,0.8,0.81
 Tea/Coffee,Lipton Yellow Label Tea,1,100,sachets,1.54,1.545,1.55,1.54,1.55,1.55
-Tea/Coffee,Lipyon Tea,1,400,g,1.49,1.52,1.55,1.49,1.51,1.52
+Tea/Coffee,Lipton Tea,1,400,g,1.49,1.52,1.55,1.49,1.51,1.52
 Tea/Coffee,Mumtaz Tea Bags,1,100,sachets,0.985,,1,1,1.025,0.985
 Tea/Coffee,Nescafe Red Mug,1,200,g,2.8,2.9,2.89,2.8,2.975,2.975
 Tea/Coffee,Red Label Lose Tea,1,800,g,1.99,2.25,,1.99,2.225,2.225
